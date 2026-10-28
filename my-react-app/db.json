@@ -1,0 +1,27 @@
+{
+    "events": [
+    {     
+        "id": 2,
+        "title": "Cultural Day",
+        "catrgory": "CULTURE",
+        "DESCRIPTION": "Cultural Day is a celebration of the diverse cultures and traditions that make up our community. It is an opportunity to learn about different customs, foods, music, and art forms from around the world."
+    },     
+     {
+        "id": 3,
+        "title": "Sports Day",
+        "catrgory":"CULTURE",
+        "DESCRIPTION":"Cultural Day is a celebration of the diverse cultures and traditions that make up our community. It is an opportunity to learn about different customs, foods, music, and art forms from around the world."
+
+    },
+       {
+        "id": 4,
+        "title":"Cultural Day",
+        "catrgory":"CULTURE",
+        "DESCRIPTION":"Cultural Day is a celebration of the diverse cultures and traditions that make up our community. It is an opportunity to learn about different customs, foods, music, and art forms from around the world."
+       }
+
+        ]  
+
+    
+}
+
